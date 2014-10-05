@@ -7,10 +7,10 @@ You and your ragtag crew of everyday science geeks are stuck in Professor *Blahb
 ### Ready
 
 * Gameboard (svg)
+* Rules (md, below)
 
 ### @TODO
 
-* Rules (md)
 * Cards (svg)
 * Gamepieces (svg)
 
@@ -78,3 +78,5 @@ You and your ragtag crew of everyday science geeks are stuck in Professor *Blahb
     * Source: https://en.wikipedia.org/wiki/Evolution
 
 ### Gameplay
+
+* Same as the game "Clue"
