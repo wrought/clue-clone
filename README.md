@@ -83,13 +83,13 @@ _Same as the game "Clue":_
 
 #### Object
 
-Professor Blahblah was a cruel tenured professor who trapped you in his Ivory Tower. You can only leave once you disprove Professor Blahblah's Last Theorem! You must find travel around the Ivory Tower trying to solve this problem so you can escape.
+Professor Blahblah was a cruel tenured professor who trapped you in his Ivory Tower. You can only leave once you disprove Professor Blahblah's Last Theorem! You must travel around the Ivory Tower trying to find the right combination that will solve this problem so you can escape.
 
 The object of the game is to discover the answer to these three questions:
 
 1. Who? Which one of the characters will solve this problem?
 2. Where? What room will be the best environment?
-3. and with What Theory (tool)? What real theorem will be used to disprove Professor Blahblah's Last Theorem?
+3. and with What theory (tool)? What real theorem will be used to disprove Professor Blahblah's Last Theorem?
 
 The answer lies in the little envelope resting on the stairway marked X in the center of the board. The envelope contains 3 cards. One card tells who does it, another card reveals the room in which it can all happened, and the third card discloses the theory (tool) used.
 
