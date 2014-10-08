@@ -91,7 +91,7 @@ The object of the game is to discover the answer to these three questions:
 2. Where? What room will be the best environment?
 3. and with What theory (tool)? What real theorem will be used to disprove Professor Blahblah's Last Theorem?
 
-The answer lies in the little envelope resting on the stairway marked X in the center of the board. The envelope contains 3 cards. One card tells who does it, another card reveals the room in which it can all happened, and the third card discloses the theory (tool) used.
+The answer lies in the little envelope resting on the stairway marked X in the center of the board. The envelope contains 3 cards. One card tells who can do it, another card reveals the room in which it can all happen, and the third card discloses the theory (tool) used.
 
 The player who, by the process of deduction and good plain common sense, first identifies the 3 solution cards hidden in the little envelope, wins the game.
 This is accomplished by players moving into the rooms and making "suggestions" of what they believe is the room, the person and the theory (tool) for the purpose of gaining information. This information may reveal which cards are in other players' hands and which cards are missing and must, therefore, be hidden in the little envelope.
@@ -113,8 +113,7 @@ Six tokens representing the characters in the house.
 
 Six theory (tool) tokens and one die.
 
-The set of 21 illustrated cards includes a card for each of the 6 characters, one for each of the 6 theories, and one for each of the 9 rooms. There is also a pad of
-Scientist Notes to aid the players in their investigations.
+The set of 21 illustrated cards includes a card for each of the 6 characters, one for each of the 6 theories, and one for each of the 9 rooms. There is also Scientist Lab Notebooks to aid the players in their investigations.
 
 #### Preparation
 
@@ -126,11 +125,11 @@ Scientist Notes to aid the players in their investigations.
 
 4. Sort the pack of cards into three groups--Room Cards, Theory Cards and Character Cards. Shuffle each of these three groups separately. Take the top card from each group and place it in the envelope. This should be done carefully so that no player knows any of the three cards (one room, one theory, and one character) placed in the envelope.
 
-5. Shuffle together the three piles of remaining cards. Then deal them face down clockwise around the table. It is important that no player shall see any of the cards while they are being shuffled and dealt. (It doesn't matter if some players receive more cards than others.)  Secretly look at your own cards: Because they're in your hand, they can't be in the Solution - which means that none of your cards was involved in the crime.
+5. Shuffle together the three piles of remaining cards. Then deal them face down clockwise around the table. It is important that no player shall see any of the cards while they are being shuffled and dealt. (It doesn't matter if some players receive more cards than others.)  Secretly look at your own cards: Because they're in your hand, they can't be in the Solution - which means that none of your cards are involved in the solution.
 
-6. Take a Scientist's notebook sheet and, so that no one can see what you write, fold it in half. Check off the cards that are in your hand.
+6. Take a Scientist's Lab Notebook sheet and, so that no one can see what you write, fold it in half. Check off the cards that are in your hand.
 
-7. Each player takes the colored token nearest to him on the board, and uses it throughout the game. The player who knows the most digits of π (pi) rolls the die and moves first. After this player has moved, the next player on the left rolls the die and moves. Each of the other players follow in turn.
+7. Each player takes the colored token nearest to them on the board, and uses it throughout the game. The player who knows the most digits of π (pi) rolls the die and moves first. After this player has moved, the next player on the left rolls the die and moves. Each of the other players follow in turn.
 
 #### Game Play
 
@@ -157,11 +156,11 @@ On the throw of the die, you may enter a Room by the doors only, but you cannot 
 Players already in a room may leave it by any door using the die as usual and moving toward another room or, they may use a secret passage, if in a corner room. The doors of each room are not counted as a square.
 
 Secret Passages:
-The Secret Passages shown in the corner rooms enable players to move between opposite corner rooms in one move. This can be done on a player's turn without throwing the die merely by moving his token to the opposite corner room and announcing he is using the Secret Passage. A Suggestion may be made after this move.
+The Secret Passages shown in the corner rooms enable players to move between opposite corner rooms in one move. This can be done on a player's turn without throwing the die merely by moving their token to the opposite corner room and announcing they are using the Secret Passage. A Suggestion may be made after this move.
 
 ##### Making a Suggestion
 
-As soon as you enter a room, make a Suggestion. By making Suggestions, you try to determine - by process of elimination -- which three cards are in the Solution envelope. To make a Suggestion, move a character and a theory into the Room that you just entered. Then suggest that the crime was committed in that Room, by that character, with that theory.
+As soon as you enter a room, make a Suggestion. By making Suggestions, you try to determine - by process of elimination -- which three cards are in the Solution envelope. To make a Suggestion, move a character and a theory into the Room that you just entered. Then suggest that the solution is possible to derive in that Room, by that Character, with that Theory.
 
 Example: Let's say that you're Gabriela "Guerra" Gonzales and you enter the Laboratory. First move another character -- Ulysses S "Grant" Rider, for instance -- into the Lounge. Then move a theory into the Laboratory (the Theory of Evolution, perhaps) and say "I suggest that the theorem can be disproved in the Laboratory, by Gabriela "Guerra" Gonzales with the Theory of Evolution."
 
@@ -172,12 +171,11 @@ Remember two things:
 
 Proving the suggestion true or false:
 
-As soon as you make a Suggestion, your opponents, in turn, try to prove it false. The first to try is the player to your immediate left. This player looks at his or her cards to see if one of the three cards you just named is there. If the player has one or more of these cards, he or she must show it to you and no one else. If the player has more than one of the cards named, he or she select just one to show you.
+As soon as you make a Suggestion, your opponents, in turn, try to prove it false. The first to try is the player to your immediate left. This player looks at their cards to see if one of the three cards you just named is there. If the player has one or more of these cards, they must show it to you and no one else. If the player has more than one of the cards named, they select just one to show you.
 
-If that opponent does not have any of the three cards, then the next player at his left examines his cards and must show one of the three if he has it. Obviously, if any player has one or more of the 3 cards named in the Suggestion, it is proof that those particular cards are not in the envelope.
+If that opponent does not have any of the three cards, then the next player at their left examines their cards and must show one of the three if they have it. Obviously, if any player has one or more of the 3 cards named in the Suggestion, it is proof that those particular cards are not in the envelope.
 
-The opportunity to prove the Suggestion false passes to the left until some player has shown ONE card to the suggesting player, whose turn then ends, and play
-passes to the next player. If no one is able to prove your Suggestion false, you may either end your turn or make an Assertion now.
+The opportunity to prove the Suggestion false passes to the left until some player has shown ONE card to the suggesting player, whose turn then ends, and play passes to the next player. If no one is able to prove your Suggestion false, you may either end your turn or make an Assertion now.
 
 ###### Special Notes about Suggestions
 
@@ -191,8 +189,7 @@ Tokens and theories transferred to a room as the result of a Suggestion are not 
 
 To leave a room in which your token has been placed by a Suggestion, either roll the die or, if you're in a corner room, you can use the Secret Passage.
 
-Although there is no requirement or rule on how players should use the Scientist Note Pads it is suggested that the best and easiest way to play the game is to
-check off items on the Note Pads as they become known. Some players find it helpful to mark the initials of the player who showed the card.
+Although there is no requirement or rule on how players should use the Scientist Lab Notebook it is suggested that the best and easiest way to play the game is to check off items on the Lab Not Book as they become known. Some players find it helpful to mark the initials of the player who showed the card.
 
 ##### Making an Assertion
 
